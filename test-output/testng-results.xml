@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="48308" started-at="2019-09-26T12:09:04Z" finished-at="2019-09-26T12:09:52Z">
+  <suite name="Suite" duration-ms="65400" started-at="2019-09-26T17:00:35Z" finished-at="2019-09-26T17:01:41Z">
     <groups>
     </groups>
-    <test name="TestHubspot" duration-ms="48308" started-at="2019-09-26T12:09:04Z" finished-at="2019-09-26T12:09:52Z">
+    <test name="TestHubspot" duration-ms="65400" started-at="2019-09-26T17:00:35Z" finished-at="2019-09-26T17:01:41Z">
       <class name="com.test.mavenshot.testclasses.HomePageTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.test.mavenshot.testclasses.HomePageTest@47c62251]" name="initialize" is-config="true" duration-ms="9369" started-at="2019-09-26T12:09:24Z" finished-at="2019-09-26T12:09:34Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.test.mavenshot.testclasses.HomePageTest@47c62251]" name="initialize" is-config="true" duration-ms="9680" started-at="2019-09-26T17:01:08Z" finished-at="2019-09-26T17:01:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.test.mavenshot.testclasses.HomePageTest@47c62251]" name="homePageTest" duration-ms="14069" started-at="2019-09-26T12:09:34Z" finished-at="2019-09-26T12:09:48Z">
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.test.mavenshot.testclasses.HomePageTest@47c62251]" name="homePageTest" duration-ms="18759" started-at="2019-09-26T17:01:18Z" finished-at="2019-09-26T17:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.mavenshot.testclasses.HomePageTest@47c62251]" name="tearDown" is-config="true" duration-ms="4349" started-at="2019-09-26T12:09:48Z" finished-at="2019-09-26T12:09:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.mavenshot.testclasses.HomePageTest@47c62251]" name="tearDown" is-config="true" duration-ms="4166" started-at="2019-09-26T17:01:37Z" finished-at="2019-09-26T17:01:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.test.mavenshot.testclasses.HomePageTest -->
       <class name="com.test.mavenshot.testclasses.LoginTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:com.test.mavenshot.testclasses.LoginTest@6f7fd0e6]" name="initialize" is-config="true" duration-ms="10102" started-at="2019-09-26T12:09:04Z" finished-at="2019-09-26T12:09:14Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.test.mavenshot.testclasses.LoginTest@6f7fd0e6]" name="initialize" is-config="true" duration-ms="11098" started-at="2019-09-26T17:00:35Z" finished-at="2019-09-26T17:00:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.test.mavenshot.testclasses.LoginTest@6f7fd0e6]" name="testLogin" duration-ms="10241" started-at="2019-09-26T12:09:14Z" finished-at="2019-09-26T12:09:24Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.test.mavenshot.testclasses.LoginTest@6f7fd0e6]" name="testLogin" duration-ms="17464" started-at="2019-09-26T17:00:46Z" finished-at="2019-09-26T17:01:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.mavenshot.testclasses.LoginTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="150" started-at="2019-09-26T12:09:24Z" finished-at="2019-09-26T12:09:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.mavenshot.testclasses.LoginTest@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="4195" started-at="2019-09-26T17:01:04Z" finished-at="2019-09-26T17:01:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
