@@ -18,6 +18,8 @@ import com.test.mavenshot.utils.ExplicitWaitUtil;
 
 public class LoginTest {
 	
+	//this is the logintest class
+	
 	public BaseConfiguration base;
 	public ExplicitWaitUtil wait;
 	public Properties prop;
